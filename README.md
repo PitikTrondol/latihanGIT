@@ -1,8 +1,2 @@
 # latihanGIT
-Latihan nganggo git 
-
-
-
-
-
-
+Latihan nganggo git
